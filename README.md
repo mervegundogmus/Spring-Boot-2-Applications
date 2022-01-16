@@ -4,5 +4,5 @@
 
 Please follow the link for the complete training catalog: https://www.deepcloudlabs.com/resources
 
-# Imdb Index Page
+# Market Index Page
 ![github](market.png)

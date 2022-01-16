@@ -6,3 +6,7 @@ Please follow the link for the complete training catalog: https://www.deepcloudl
 
 # Market Index Page
 ![github](market.png)
+
+# HR Index Page
+![github](hr.png)
+

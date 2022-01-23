@@ -1,2 +1,2 @@
-# World-Boot Index Page
+# HR Index Page
 ![github](hr.png)

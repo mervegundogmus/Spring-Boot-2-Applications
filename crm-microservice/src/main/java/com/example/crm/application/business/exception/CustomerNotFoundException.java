@@ -6,6 +6,5 @@ public class CustomerNotFoundException extends RuntimeException {
 		super("Cannot find the customer");
 
 	}
-	
 
 }
